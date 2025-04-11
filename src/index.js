@@ -29,10 +29,10 @@ client.on('ready', async function () {
 
 client.on('ready', async () => {
 
-  const channel = client.channels.cache.get('1358165365196193923'); // Replace with the game channel ID
+  const channel = client.channels.cache.get('1358165365196193923'); 
   if (!channel || !channel.isTextBased()) return;
 
-  // Try to fetch an existing webhook or create one if not found
+
   let webhook = (await channel.fetchWebhooks()).find(wh => wh.name === 'Carson');
   if (!webhook) {
     webhook = await channel.createWebhook({
