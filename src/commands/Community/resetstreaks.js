@@ -1,5 +1,5 @@
 const { SlashCommandBuilder, PermissionFlagsBits } = require("discord.js");
-const User = require("../../schemas/streakSchema"); // adjust the path if needed
+const User = require("../../schemas/streakSchema"); 
 
 module.exports = {
   data: new SlashCommandBuilder()
