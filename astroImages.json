@@ -1,0 +1,1620 @@
+{
+    "easy": [
+        {
+            "id": 1,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1200px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+            "names": [
+                "Great Orion Nebula",
+                "Orion Nebula",
+                "M42",
+                "Messier 42"
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/1200px-Crab_Nebula.jpg",
+            "names": [
+                "Crab Nebula",
+                "M1",
+                "Messier 1",
+                "NGC 1952"
+            ]
+        },
+        {
+            "id": 3,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eagle_Nebula_from_ESO.jpg/1200px-Eagle_Nebula_from_ESO.jpg",
+            "names": [
+                "Eagle Nebula",
+                "Pillars of Creation",
+                "M16",
+                "Messier 16",
+                "NGC 6611"
+            ]
+        },
+        {
+            "id": 4,
+            "image": "https://cdn.eso.org/images/screen/eso1714a.jpg",
+            "names": [
+                "Small Magellanic Cloud",
+                "SMC"
+            ]
+        },
+        {
+            "id": 5,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Large_Magellanic_Cloud_revealed_by_VISTA.jpg/800px-The_Large_Magellanic_Cloud_revealed_by_VISTA.jpg",
+            "names": [
+                "Large Magellanic Cloud",
+                "LMC"
+            ]
+        },
+        {
+            "id": 6,
+            "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/05/ring_nebula/12827475-1-eng-GB/Ring_Nebula_pillars.jpg",
+            "names": [
+                "Ring Nebula",
+                "M57",
+                "Messier 57",
+                "NGC 6720"
+            ]
+        },
+        {
+            "id": 7,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NGC7293_%282004%29.jpg/800px-NGC7293_%282004%29.jpg",
+            "names": [
+                "Helix Nebula",
+                "C63",
+                "Caldwell 63",
+                "NGC 7293"
+            ]
+        },
+        {
+            "id": 8,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/VST_images_the_Lagoon_Nebula.jpg/1200px-VST_images_the_Lagoon_Nebula.jpg",
+            "names": [
+                "Lagoon Nebula",
+                "M8",
+                "Messier 8",
+                "NGC 6523"
+            ]
+        },
+        {
+            "id": 9,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg/1024px-Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg",
+            "names": [
+                "Horsehead Nebula",
+                "B33",
+                "Barnard 33"
+            ]
+        },
+        {
+            "id": 10,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/M31_09-01-2011_%28cropped%29.jpg",
+            "names": [
+                "Andromeda Galaxy",
+                "M31",
+                "Messier 31",
+                "NGC 224"
+            ]
+        },
+        {
+            "id": 11,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/800px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+            "names": [
+                "Triangulum Galaxy",
+                "M33",
+                "Messier 33",
+                "NGC 598"
+            ]
+        },
+        {
+            "id": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/SHO_Final_with_copyright.jpg/1280px-SHO_Final_with_copyright.jpg",
+            "names": [
+                "Rosette Nebula",
+                "C49",
+                "Caldwell 49"
+            ]
+        },
+        {
+            "id": 13,
+            "image": "https://www.irida-observatory.org/CCD/Cygnus_Loop_2015_ASA12/Cygnus_Loop_2015_ASA12_1100px.jpg",
+            "names": [
+                "Veil Nebula",
+                "Eastern Veil Nebula",
+                "Western Veil Nebula"
+            ]
+        },
+        {
+            "id": 13,
+            "image": "https://www.irida-observatory.org/CCD/Cygnus_Loop_2015_ASA12/Cygnus_Loop_2015_ASA12_1100px.jpg",
+            "names": [
+                "Veil Nebula",
+                "Eastern Veil Nebula",
+                "Western Veil Nebula",
+                "Cygnus Loop"
+            ]
+        },
+        {
+            "id": 14,
+            "image": "https://stsci-opo.org/STScI-01EVVFSW5W1W5JG2BSAN1J1AE5.jpg",
+            "names": [
+                "Southern Ring Nebula",
+                "Eight Burst Nebula",
+                "Eight-Burst Nebula",
+                "C74",
+                "Caldwell 74",
+                "NGC 3132"
+            ]
+        },
+        {
+            "id": 15,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tarantula_Nebula_by_JWST.jpg/1920px-Tarantula_Nebula_by_JWST.jpg",
+            "names": [
+                "Tarantula Nebula",
+                "30 Doradus"
+            ]
+        },
+        {
+            "id": 16,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/1024px-Messier_87_Hubble_WikiSky.jpg",
+            "names": [
+                "Virgo A",
+                "Virgo Galaxy",
+                "M87",
+                "Messier 87",
+                "NGC 4486"
+            ]
+        },
+        {
+            "id": 17,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Messier_81_HST.jpg/1280px-Messier_81_HST.jpg",
+            "names": [
+                "Bode’s Galaxy",
+                "Bodes Galaxy",
+                "M81",
+                "Messier 81",
+                "NGC 3031"
+            ]
+        },
+        {
+            "id": 18,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/M27_-_Noao-m27.jpg/1024px-M27_-_Noao-m27.jpg",
+            "names": [
+                "Dumbbell Nebula",
+                "Apple Core Nebula",
+                "M27",
+                "Messier 27",
+                "NGC 6853"
+            ]
+        },
+        {
+            "id": 19,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg/1280px-M44_47x300s-10%C2%B0C_O30_G0_PM_RGB_03032022.jpg",
+            "names": [
+                "Beehive Cluster",
+                "Praesepe",
+                "M44",
+                "Messier 44",
+                "NGC 2632"
+            ]
+        },
+        {
+            "id": 20,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg",
+            "names": [
+                "Cigar Galaxy",
+                "M82",
+                "Messier 82",
+                "NGC 3034"
+            ]
+        },
+        {
+            "id": 21,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/1280px-Pleiades_large.jpg",
+            "names": [
+                "Pleiades",
+                "Merope Nebula",
+                "Maia Nebula",
+                "Seven Sisters",
+                "M45",
+                "Messier 45"
+            ]
+        },
+        {
+            "id": 22,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Heart_Nebula_%282020-08-11%29.jpg/1280px-Heart_Nebula_%282020-08-11%29.jpg",
+            "names": [
+                "Heart Nebula",
+                "Running Dog Nebula"
+            ]
+        },
+        {
+            "id": 23,
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV45OHQMnWf_0r_RGkOrGag11R8M7kSYcdS2EyQsmQbd_-3hn_q40op3SGaNP20U21TcDUsPsAERlwBDCXYUTFtkVUhzdcOSCR2urNINRuRf1axVHFPghRMms0TV-GDVylllyTd51bdqEv77qyXJpOSnVgYczv87_BtDQDFr2p_eaWq5CcsFcWaFU0/s2048/The%20Carina%20Nebula%20-%20Ian%20Inverarity%20(06-03-23).jpg",
+            "names": [
+                "Carina Nebula",
+                "Great Carina Nebula",
+                "Homunculus Nebula",
+                "NGC 3372"
+            ]
+        },
+        {
+            "id": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Bubble_Nebula_-_NGC_7635_-_Heic1608a.jpg/1024px-The_Bubble_Nebula_-_NGC_7635_-_Heic1608a.jpg",
+            "names": [
+                "Bubble Nebula",
+                "NGC 7635",
+                "C11",
+                "Caldwell 11"
+            ]
+        },
+        {
+            "id": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ngc2392.jpg/1024px-Ngc2392.jpg",
+            "names": [
+                "Eskimo Nebula",
+                "Clown Face Nebula",
+                "Lion Nebula",
+                "C39",
+                "Caldwell 39"
+            ]
+        },
+        {
+            "id": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/VST_image_of_the_spectacular_star-forming_region_Messier_17_%28Omega_Nebula%29.jpg/1024px-VST_image_of_the_spectacular_star-forming_region_Messier_17_%28Omega_Nebula%29.jpg",
+            "names": [
+                "Omega Nebula",
+                "Swan Nebula",
+                "M17",
+                "Messier 17",
+                "NGC 6618"
+            ]
+        },
+        {
+            "id": 27,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boomerang_nebula.jpg/1024px-Boomerang_nebula.jpg",
+            "names": [
+                "Boomerang Nebula",
+                "Bow Tie Nebula",
+                "Bowtie Nebula"
+            ]
+        },
+        {
+            "id": 28,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M020.jpg/1280px-M020.jpg",
+            "names": [
+                "Trifid Nebula",
+                "M20",
+                "Messier 20",
+                "NGC 6514"
+            ]
+        },
+        {
+            "id": 29,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NGC_6302_Hubble_2009.full.jpg/800px-NGC_6302_Hubble_2009.full.jpg",
+            "names": [
+                "Butterfly Nebula",
+                "Bug Nebula",
+                "C69",
+                "Caldwell 69",
+                "NGC 6302"
+            ]
+        },
+        {
+            "id": 30,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EtaCarinae.jpg/1024px-EtaCarinae.jpg",
+            "names": [
+                "Homunculus Nebula",
+                "Eta Carinae"
+            ]
+        },
+        {
+            "id": 31,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_galactic_sunflower.jpg/1024px-A_galactic_sunflower.jpg",
+            "names": [
+                "Sunflower Galaxy",
+                "M63",
+                "Messier 63",
+                "NGC 5055"
+            ]
+        },
+        {
+            "id": 32,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/NGC_4826_-_HST.png/1024px-NGC_4826_-_HST.png",
+            "names": [
+                "Black Eye Galaxy",
+                "Evil Eye Galaxy",
+                "M64",
+                "Messier 64",
+                "NGC 4826"
+            ]
+        },
+        {
+            "id": 33,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NCG1499CalNeb.jpg/800px-NCG1499CalNeb.jpg",
+            "names": [
+                "California Nebula",
+                "NGC 1499"
+            ]
+        },
+        {
+            "id": 34,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NANeb3PS23_SCNR.jpg/1280px-NANeb3PS23_SCNR.jpg",
+            "names": [
+                "North America Nebula",
+                "C20",
+                "Caldwell 20",
+                "NGC 7000"
+            ]
+        },
+        {
+            "id": 35,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M104_ngc4594_sombrero_galaxy_hi-res.jpg/1920px-M104_ngc4594_sombrero_galaxy_hi-res.jpg",
+            "names": [
+                "Sombrero Galaxy",
+                "M104",
+                "Messier 104",
+                "NGC 4594"
+            ]
+        },
+        {
+            "id": 36,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/1280px-M101_hires_STScI-PRC2006-10a.jpg",
+            "names": [
+                "Pinwheel Galaxy",
+                "M101",
+                "Messier 101",
+                "NGC 5457"
+            ]
+        },
+        {
+            "id": 37,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/1280px-Messier51_sRGB.jpg",
+            "names": [
+                "Whirlpool Galaxy",
+                "M51",
+                "M51a",
+                "Messier 51",
+                "Messier 51a",
+                "NGC 5194"
+            ]
+        },
+        {
+            "id": 38,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LeoTripletHunterWilson.jpg/1024px-LeoTripletHunterWilson.jpg",
+            "names": [
+                "Leo Triplet",
+                "Leo’s Triplet",
+                "Leos Triplet",
+                "M66",
+                "Messier 66"
+            ]
+        },
+        {
+            "id": 39,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UGC_10214HST.jpg/800px-UGC_10214HST.jpg",
+            "names": [
+                "Tadpole Galaxy"
+            ]
+        },
+        {
+            "id": 40,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ESO_Centaurus_A_LABOCA.jpg/800px-ESO_Centaurus_A_LABOCA.jpg",
+            "names": [
+                "Centaurus A",
+                "C77",
+                "Caldwell 77",
+                "NGC 5128"
+            ]
+        },
+        {
+            "id": 41,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Eso1430a.jpg/1024px-Eso1430a.jpg",
+            "names": [
+                "Wild Duck Cluster",
+                "M11",
+                "Messier 11",
+                "NGC 6705"
+            ]
+        },
+        {
+            "id": 42,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Starless_witch_head_stack_ks_Final_4.jpg/800px-Starless_witch_head_stack_ks_Final_4.jpg",
+            "names": [
+                "Witch Head Nebula",
+                "IC 2118"
+            ]
+        },
+        {
+            "id": 43,
+            "image": "https://www.messier-objects.com/wp-content/uploads/2015/07/Messier-76.jpg",
+            "names": [
+                "Little Dumbbell Nebula",
+                "Cork Nebula",
+                "M76",
+                "Messier 76",
+                "NGC 650",
+                "NGC 651"
+            ]
+        },
+        {
+            "id": 44,
+            "image": "https://images.squarespace-cdn.com/content/v1/5debd4b16fcd7b02905712ff/1616440515087-XPPSTEL62IQ2L7H6W5UO/RunningChicken.jpg",
+            "names": [
+                "Running Chicken Nebula",
+                "IC 2944"
+            ]
+        },
+        {
+            "id": 45,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/CaveHunterWilson.jpg",
+            "names": [
+                "Cave Nebula",
+                "C9",
+                "Caldwell 9"
+            ]
+        },
+        {
+            "id": 46,
+            "image": "https://astrophotomannheim.de/wp-content/uploads/2020/06/Sh2-199-Portfolio.jpg",
+            "names": [
+                "Westerhout 5",
+                "Baby Nebula",
+                "Soul Nebula"
+            ]
+        },
+        {
+            "id": 47,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flame_Nebula_NGC_2024.jpg/1024px-Flame_Nebula_NGC_2024.jpg",
+            "names": [
+                "Flame Nebula",
+                "NGC 2024"
+            ]
+        },
+        {
+            "id": 48,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hoag%27s_object.jpg/1024px-Hoag%27s_object.jpg",
+            "names": [
+                "Hoag’s Object",
+                "Hoags Object"
+            ]
+        },
+        {
+            "id": 49,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cartwheel_Galaxy_JWST_NIRCam%2BMIRI_Full_Res.png/1024px-Cartwheel_Galaxy_JWST_NIRCam%2BMIRI_Full_Res.png",
+            "names": [
+                "Cartwheel Galaxy"
+            ]
+        },
+        {
+            "id": 50,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_star_cluster_Messier_7.jpg/1024px-The_star_cluster_Messier_7.jpg",
+            "names": [
+                "Ptolemy’s Cluster",
+                "Ptolemys Cluster",
+                "M7",
+                "Messier 7",
+                "NGC 6475"
+            ]
+        },
+        {
+            "id": 51,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seagull_Nebula.jpg/1024px-Seagull_Nebula.jpg",
+            "names": [
+                "Seagull Nebula"
+            ]
+        },
+        {
+            "id": 52,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/MyCn18-crop.png",
+            "names": [
+                "Hourglass Nebula",
+                "MyCn 18"
+            ]
+        },
+        {
+            "id": 53,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/IC_4592_Blue_Horsehead_Nebula.jpg/800px-IC_4592_Blue_Horsehead_Nebula.jpg",
+            "names": [
+                "Blue Horsehead Nebula",
+                "IC 4592"
+            ]
+        },
+        {
+            "id": 54,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360210230339965131/20230214-NGC7822-SHO.jpg?ex=67fa49fe&is=67f8f87e&hm=dd155a1f2463ff684e8e6e6f63f0b90f8b51322fabf1b4282ab5de0c22c1b62e&",
+            "names": [
+                "Cosmic Question Mark",
+                "Question Mark Nebula",
+                "Sh 2-171",
+                "Sh 171",
+                "Sharpless 171",
+                "Berkeley 59",
+                "NGC 7822"
+            ]
+        }
+    ],
+    "medium": [
+        
+            {
+                "id": 1,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Omega_Centauri_by_ESO.jpg/1024px-Omega_Centauri_by_ESO.jpg",
+                "names": [
+                    "Omega Centauri",
+                    "C80",
+                    "Caldwell 80",
+                    "NGC 5139"
+                ]
+            },
+            {
+                "id": 2,
+                "image": "https://images.squarespace-cdn.com/content/v1/5debd4b16fcd7b02905712ff/7d91f864-f9fa-49ab-8cab-eaf5641c8f11/8DBBE20D-A09D-4B69-B39D-3D3C9D1CF184.jpeg",
+                "names": [
+                    "Barnard’s Loop",
+                    "Barnards Loop"
+                ]
+            },
+            {
+                "id": 3,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lambda_Orionis.jpg/1280px-Lambda_Orionis.jpg",
+                "names": [
+                    "Lambda Orionis",
+                    "Lambda Orionis Ring",
+                    "Anglerfish Nebula"
+                ]
+            },
+            {
+                "id": 4,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hubble%27s_Variable_Nebula_-_NGC_2261.png/1024px-Hubble%27s_Variable_Nebula_-_NGC_2261.png",
+                "names": [
+                    "Hubble’s Variable Nebula",
+                    "Hubbles Variable Nebula",
+                    "C46",
+                    "Caldwell 46",
+                    "NGC 2261"
+                ]
+            },
+            {
+                "id": 5,
+                "image": "https://telescope.live/sites/default/files/2022-06/M6.png",
+                "names": [
+                    "Butterfly Cluster",
+                    "M6",
+                    "Messier 6",
+                    "NGC 6405"
+                ]
+            },
+            {
+                "id": 6,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Spirograph_Nebula_-_Hubble_1999.jpg",
+                "names": [
+                    "Spirograph Nebula",
+                    "IC 418"
+                ]
+            },
+            {
+                "id": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NGC7027_-_HST_-_Heic2011c.tif/lossy-page1-1280px-NGC7027_-_HST_-_Heic2011c.tif.jpg",
+                "names": [
+                    "Jewel Bug Nebula",
+                    "Magic Carpet Nebula",
+                    "NGC 7027"
+                ]
+            },
+            {
+                "id": 8,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Stephan%27s_Quintet_Hubble_2009.full_denoise.jpg/800px-Stephan%27s_Quintet_Hubble_2009.full_denoise.jpg",
+                "names": [
+                    "Stephan’s Quintet",
+                    "Stephans Quintet",
+                    "NGC 7320"
+                ]
+            },
+            {
+                "id": 9,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stingraynebula.jpg/1024px-Stingraynebula.jpg",
+                "names": [
+                    "Stingray Nebula"
+                ]
+            },
+            {
+                "id": 10,
+                "image": "https://waid-observatory.com/images/m/m24_2024-07-07_LRGB_0715.jpg",
+                "names": [
+                    "Small Sagittarius Star Cloud",
+                    "SSSC",
+                    "Small SSC",
+                    "M24",
+                    "Messier 24",
+                    "IC 4715"
+                ]
+            },
+            {
+                "id": 11,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/M32_Francione_inverted.jpg/1024px-M32_Francione_inverted.jpg",
+                "names": [
+                    "M32",
+                    "Messier 32",
+                    "NGC 221"
+                ]
+            },
+            {
+                "id": 12,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Retinanebel.jpg/1280px-Retinanebel.jpg",
+                "names": [
+                    "Retina Nebula",
+                    "IC 4406"
+                ]
+            },
+            {
+                "id": 13,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NGC_253_Galaxy.jpg/1024px-NGC_253_Galaxy.jpg",
+                "names": [
+                    "Sculptor Galaxy",
+                    "Silver Coin Galaxy",
+                    "Silver Dollar Galaxy",
+                    "NGC 253",
+                    "C65",
+                    "Caldwell 65"
+                ]
+            },
+            {
+                "id": 14,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Noao-m97.tif/lossy-page1-500px-Noao-m97.tif.jpg",
+                "names": [
+                    "Owl Nebula",
+                    "M97",
+                    "Messier 97",
+                    "NGC 3587"
+                ]
+            },
+            {
+                "id": 15,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Twin_Jet_Nebula.jpg/1024px-The_Twin_Jet_Nebula.jpg",
+                "names": [
+                    "Twin Jet Nebula",
+                    "M2-9",
+                    "M2 9"
+                ]
+            },
+            {
+                "id": 16,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ant_Nebula.jpg",
+                "names": [
+                    "Ant Nebula",
+                    "Mz 3",
+                    "Mz-3"
+                ]
+            },
+            {
+                "id": 17,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barnard%27s_Galaxy.jpg/1024px-Barnard%27s_Galaxy.jpg",
+                "names": [
+                    "Barnard’s Galaxy",
+                    "NGC 6822",
+                    "C57",
+                    "Caldwell 57"
+                ]
+            },
+            {
+                "id": 18,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Egg_Nebula.jpg",
+                "names": [
+                    "Egg Nebula"
+                ]
+            },
+            {
+                "id": 19,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/FoxFur_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg",
+                "names": [
+                    "Fox Fur Nebula"
+                ]
+            },
+            {
+                "id": 20,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NGC_604.png/1280px-NGC_604.png",
+                "names": [
+                    "NGC 604"
+                ]
+            },
+            {
+                "id": 21,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pelican_nebula_ic5070_ic5067.jpg/1280px-Pelican_nebula_ic5070_ic5067.jpg",
+                "names": [
+                    "Pelican Nebula",
+                    "IC 5070"
+                ]
+            },
+            {
+                "id": 22,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PESSTO_Snaps_Supernova_in_Messier_74.jpg",
+                "names": [
+                    "Phantom Galaxy",
+                    "M74",
+                    "Messier 74",
+                    "NGC 628"
+                ]
+            },
+            {
+                "id": 23,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cone_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg/800px-Cone_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg",
+                "names": [
+                    "Cone Nebula",
+                    "Christmas Tree Cluster",
+                    "NGC 2264"
+                ]
+            },
+            {
+                "id": 24,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_crammed_centre_of_Messier_22.jpg/800px-The_crammed_centre_of_Messier_22.jpg",
+                "names": [
+                    "Great Sagittarius Cluster",
+                    "Great Sagittarius Star Cluster",
+                    "GSC",
+                    "GSSC",
+                    "M22",
+                    "Messier 22",
+                    "NGC 6656"
+                ]
+            },
+            {
+                "id": 25,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Heic0414b.jpg/1024px-Heic0414b.jpg",
+                "names": [
+                    "Cat’s Eye Nebula",
+                    "Cats Eye Nebula",
+                    "C6",
+                    "Caldwell 6",
+                    "NGC 6543"
+                ]
+            },
+            {
+                "id": 26,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hyades.jpg/1280px-Hyades.jpg",
+                "names": [
+                    "Hyades",
+                    "C41",
+                    "Caldwell 41"
+                ]
+            },
+            {
+                "id": 27,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rgb-ngc6193.jpg/1024px-Rgb-ngc6193.jpg",
+                "names": ["Firebird Nebula", "Dragons of Ara", "C82", "Caldwell 82", "NGC 6193", "NGC 6188"]
+            },
+            {
+                "id": 28,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/M40_%28Winnecke_4%29_%28noao-m40%29.jpg/1024px-M40_%28Winnecke_4%29_%28noao-m40%29.jpg",
+                "names": ["Winnecke 4", "M40", "Messier 40"]
+            },
+            {
+                "id": 29,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/M43_HST.jpg/1024px-M43_HST.jpg",
+                "names": ["DeMairan’s Nebula", "DeMairans Nebula", "M43", "Messier 43", "NGC 1982"]
+            },
+            {
+                "id": 30,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Noao-m49.tif/lossy-page1-828px-Noao-m49.tif.jpg",
+                "names": ["M49", "Messier 49", "NGC 4472"]
+            },
+            {
+                "id": 31,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/A_hungry_starburst_galaxy.jpg",
+                "names": ["Swelling Spiral Galaxy", "M61", "Messier 61", "NGC 4303"]
+            },
+            {
+                "id": 32,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Messier_78.jpg/1024px-Messier_78.jpg",
+                "names": ["M78", "Messier 78", "NGC 2068"]
+            },
+            {
+                "id": 33,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Messier_77_spiral_galaxy_by_HST.jpg/1143px-Messier_77_spiral_galaxy_by_HST.jpg",
+                "names": ["Squid Galaxy", "Cetus A", "M77", "Messier 77", "NGC 1068"]
+            },
+            {
+                "id": 34,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Outskirts_of_the_Southern_Pinwheel_Galaxy_%28noirlab2429a%29.jpg/1024px-The_Outskirts_of_the_Southern_Pinwheel_Galaxy_%28noirlab2429a%29.jpg",
+                "names": ["Southern Pinwheel Galaxy", "M83", "Messier 83", "NGC 5236"]
+            },
+            {
+                "id": 35,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ngc5866_hst_big.png/800px-Ngc5866_hst_big.png",
+                "names": ["Spindle Galaxy", "NGC 5866"]
+            },
+            {
+                "id": 36,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Messier_106_visible_and_infrared_composite.jpg/1280px-Messier_106_visible_and_infrared_composite.jpg",
+                "names": ["M106", "Messier 106", "NGC 4258"]
+            },
+            {
+                "id": 37,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/C27_-_Crescent_Nebula.jpg/1280px-C27_-_Crescent_Nebula.jpg",
+                "names": ["Crescent Nebula", "NGC 6888", "C27", "Caldwell 27"]
+            },
+            {
+                "id": 38,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/A_hazy_nebula.jpg/1024px-A_hazy_nebula.jpg",
+                "names": ["Oyster Nebula", "Camel’s Eye Nebula", "Camels Eye Nebula", "NGC 1501"]
+            },
+            {
+                "id": 39,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portrait_of_the_Great_Barred_Spiral.jpg/1024px-Portrait_of_the_Great_Barred_Spiral.jpg",
+                "names": ["Great Barred Spiral Galaxy", "Fornax Propeller Galaxy", "NGC 1365"]
+            },
+            {
+                "id": 40,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Messier_94.jpg/1024px-Messier_94.jpg",
+                "names": ["Cat’s Eye Galaxy", "Cats Eye Galaxy", "Crocodile Eye Galaxy", "Croc’s Eye Galaxy", "Crocs Eye Galaxy", "M94", "Messier 94", "NGC 4736"]
+            },
+            {
+                "id": 41,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Messier_100_%E2%80%94_Grand_Design_Splendour.jpg",
+                "names": ["Mirror Galaxy", "M100", "Messier 100"]
+            },
+            {
+                "id": 42,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/54345main_ic1396_highres.jpg/1024px-54345main_ic1396_highres.jpg",
+                "names": ["Elephant’s Trunk Nebula", "Elephants Trunk Nebula", "IC 1396"]
+            },
+            {
+                "id": 43,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Detailed_view_of_the_Prawn_Nebula_from_ESO%E2%80%99s_VST.jpg/1280px-Detailed_view_of_the_Prawn_Nebula_from_ESO%E2%80%99s_VST.jpg",
+                "names": ["Prawn Nebula", "IC 4628"]
+            },
+            {
+                "id": 44,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cosmic_%E2%80%98Winter%E2%80%99_Wonderland.jpg/1280px-Cosmic_%E2%80%98Winter%E2%80%99_Wonderland.jpg",
+                "names": ["Lobster Nebula", "War and Peace Nebula", "NGC 6357"]
+            },
+            {
+                "id": 45,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cats-paw-eso.jpg/800px-Cats-paw-eso.jpg",
+                "names": ["Cat’s Paw Nebula", "Cats Paw Nebula", "NGC 6334"]
+            },
+            {
+                "id": 46,
+                "image": "https://astro-cabinet.com/uploaded/hires/DarkHorse-10_3m-1600-HR.jpg",
+                "names": ["Dark Horse Nebula", "Great Dark Horse", "Prancing Horse"]
+            },
+            {
+                "id": 47,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ALCOR_et_MIZAR_%287060991417%29.jpg",
+                "names": ["Mizar and Alcor", "Mizar", "Alcor"]
+            },
+            {
+                "id": 48,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Iris_Nebula_-_NGC_7023_-_Caldwell_4.jpg/1280px-Iris_Nebula_-_NGC_7023_-_Caldwell_4.jpg",
+                "names": ["Iris Nebula", "NGC 7023", "C4", "Caldwell 4"]
+            },
+            {
+                "id": 49,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NGC_6210_HST.tif/lossy-page1-627px-NGC_6210_HST.tif.jpg",
+                "names": ["Turtle Nebula", "NGC 6210"]
+            },
+            {
+                "id": 50,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NGC-2174.tif/lossy-page1-1280px-NGC-2174.tif.jpg",
+                "names": ["Monkey Head Nebula", "NGC 2174"]
+            },
+            {
+                "id": 51,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Wizard_Nebula.jpg/1200px-Wizard_Nebula.jpg",
+                "names": ["Wizard Nebula", "NGC 7380"]
+            },
+            {
+                "id": 52,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fireworks_Galaxy.jpg/1024px-Fireworks_Galaxy.jpg",
+                "names": ["Fireworks Galaxy", "NGC 6946"]
+            },
+            {
+                "id": 53,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/NGC_2359.jpg",
+                "names": ["Thor’s Helmet", "NGC 2359"]
+            },
+            {
+                "id": 54,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/IC_3568_%22Lemon_Slice%22.jpg",
+                "names": ["Lemon Slice Nebula", "IC 3568"]
+            },
+            {
+                "id": 55,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tulip-Nebula.jpg",
+                "names": ["Tulip Nebula", "Sh 2-170", "Sh 170", "Sharpless 170"]
+            },
+            {
+                "id": 56,
+                "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2018/10/STScI-01EVSZK666DR7QDPEBC68B2XCJ.tif?w=1970&h=2000&fit=crop&crop=faces%2Cfocalpoint",
+                "names": ["Ghost Nebula", "Ghost of Cassiopeia", "Sh 2-185", "Sh 185", "Sharpless 185"]
+            },
+            {
+                "id": 57,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Needle_Galaxy_4565.jpeg/1024px-Needle_Galaxy_4565.jpeg",
+                "names": ["Needle Galaxy", "C38", "Caldwell 38", "NGC 4565"]
+            },
+            {
+                "id": 58,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Little_gem.jpg/1024px-Little_gem.jpg",
+                "names": ["Little Gem Nebula", "NGC 6818"]
+            },
+            {
+                "id": 59,
+                "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360221203419369613/IMG_8816.jpg?ex=67fa5436&is=67f902b6&hm=73e1987b0107b5891d1564787050be7ae1be05fde4bf07e6b6652691e50fd00b&",
+                "names": ["Starfish Galaxy", "NGC 6240"]
+            },
+            {
+                "id": 60,
+                "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360223404220743840/IMG_8821.jpg?ex=67fa5643&is=67f904c3&hm=afde3b9d5ce315ad31debbce11ff14110d81fa4b15bf7c3aa50c0525c5446a18&",
+                "names": ["Dragon’s Egg Nebula", "Dragons Egg Nebula", "NGC 6164"]
+            }
+
+    ],
+    "hard": [
+        {
+            "id": 1,
+            "image": "https://cosmicpursuits.com/wp-content/uploads/2023/08/Sadr-IC1318.jpg",
+            "names": ["Cygnus Star Cloud", "CSC"]
+        },
+        {
+            "id": 2,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/M109_%28noao-m109hatfield%29.jpg/1280px-M109_%28noao-m109hatfield%29.jpg",
+            "names": ["Vacuum Cleaner Galaxy", "M109", "Messier 109", "NGC 3992"]
+        },
+        {
+            "id": 3,
+            "image": "https://www.go-astronomy.com/images/messier/big/messier-39.jpg",
+            "names": ["M39", "Messier 39"]
+        },
+        {
+            "id": 4,
+            "image": "https://www.messier-objects.com/wp-content/uploads/2015/09/M108.jpg",
+            "names": ["Surfboard Galaxy", "M108", "Messier 108", "NGC 3556"]
+        },
+        {
+            "id": 5,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NGC3199_-_ESO_-_Potw1831a.jpg/1280px-NGC3199_-_ESO_-_Potw1831a.jpg",
+            "names": ["Banana Nebula", "Carnia’s Smile", "Carinas Smile", "NGC 3199"]
+        },
+        {
+            "id": 6,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eso1422a.jpg/1024px-Eso1422a.jpg",
+            "names": ["Gem Cluster", "NGC 3293"]
+        },
+        {
+            "id": 7,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Statue_of_Liberty_Nebula_final.jpg/1024px-Statue_of_Liberty_Nebula_final.jpg",
+            "names": ["Statue of Liberty Nebula", "NGC 3576"]
+        },
+        {
+            "id": 8,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heic1510a.tif/lossy-page1-1024px-Heic1510a.tif.jpg",
+            "names": ["47 Tucanae", "47 Tuc"]
+        },
+        {
+            "id": 9,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Sh_2-86RGBHaRGBHunter.jpg",
+            "names": ["Cloud Sculpting Star Cluster", "CSSC", "NGC 6820", "NGC 6823"]
+        },
+        {
+            "id": 10,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IC443_Final_with_copyright.jpg/1280px-IC443_Final_with_copyright.jpg",
+            "names": ["Jellyfish Nebula", "IC 443"]
+        },
+        {
+            "id": 11,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Planetary_nebula_NGC_3918.jpg",
+            "names": ["Blue Planetary", "The Southerner", "NGC 3918"]
+        },
+        {
+            "id": 12,
+            "image": "https://www.irida-observatory.org/DSLR/Antares_region/Antares_Region_2000px.jpg",
+            "names": ["Antares Nebula", "Antares Region", "Rho Ophiuchi"]
+        },
+        {
+            "id": 13,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/NGC_6826_%22Blinking_Eye%22.jpg",
+            "names": ["Blinking Eye", "Blinking Planetary", "C15", "Caldwell 15"]
+        },
+        {
+            "id": 14,
+            "image": "https://astrocat.info/wp-content/uploads/2023/09/Barnard-150-Seahorse-in-Cepheus-Ha-details-Aleix-Roig-2023-scaled.jpg",
+            "names": ["Seahorse Nebula", "Dark Seahorse Nebula", "B50", "Barnard 150"]
+        },
+        {
+            "id": 15,
+            "image": "https://i0.wp.com/urbanastrophotography.com/wp-content/uploads/2021/11/LionNebula_1x1.jpg?fit=2048%2C2048&ssl=1",
+            "names": ["Lion Nebula"]
+        },
+        {
+            "id": 16,
+            "image": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ngc1999_potw2243a-jpg.webp",
+            "names": ["Cosmic Keyhole", "Cosmic Keyhole Nebula", "NGC 1999"]
+        },
+        {
+            "id": 17,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Abell21_-_Noaoann09008a.jpg",
+            "names": ["Medusa Nebula"]
+        },
+        {
+            "id": 18,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Snake_Nebula.jpg/1200px-Snake_Nebula.jpg",
+            "names": ["Snake Nebula", "B72", "Barnard 72"]
+        },
+        {
+            "id": 19,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Messier_73_wikisky.jpg",
+            "names": ["M73", "Messier 73"]
+        },
+        {
+            "id": 20,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Messier_71%2C_an_Unusual_Globular_Cluster.jpg/800px-Messier_71%2C_an_Unusual_Globular_Cluster.jpg",
+            "names": ["M71", "Messier 71", "NGC 6838", "NGC 6839"]
+        },
+        {
+            "id": 21,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/M95_-_HST_-_Potw1841a.tiff/lossy-page1-1024px-M95_-_HST_-_Potw1841a.tiff.jpg",
+            "names": ["M95", "Messier 95", "NGC 3351"]
+        },
+        {
+            "id": 22,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/N1555s.jpg",
+            "names": ["Hind’s Variable Nebula", "Hinds Variable Nebula", "NGC 1555"]
+        },
+        {
+            "id": 23,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Antennae_Galaxies_reloaded.jpg/1024px-Antennae_Galaxies_reloaded.jpg",
+            "names": ["Antennae Galaxy", "Antennae Galaxies", "C60", "Caldwell 60", "C61", "Caldwell 61", "NGC 4038", "NGC 4039"]
+        },
+        {
+            "id": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NGC_2467_and_Surroundings.jpg/1024px-NGC_2467_and_Surroundings.jpg",
+            "names": ["Skull and Crossbones Nebula", "NGC 2467"]
+        },
+        {
+            "id": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seagull_Nebula.jpg/1024px-Seagull_Nebula.jpg",
+            "names": ["Seagull Nebula", "IC 2177"]
+        },
+        {
+            "id": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Westbrook_Nebula.tif/lossy-page1-1000px-Westbrook_Nebula.tif.jpg",
+            "names": ["Westbrook Nebula"]
+        },
+        {
+            "id": 27,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Eso1439a.jpg/1024px-Eso1439a.jpg",
+            "names": ["Wishing Well Cluster", "Pincushion Cluster", "Football Cluster", "Black Arrow Cluster", "NGC 3532"]
+        },
+        {
+            "id": 28,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Southern_Pleiades_%28IC_2602%29.jpg",
+            "names": ["Southern Pleiades", "Theta Carinae Cluster", "C102", "Caldwell 102", "IC 2602"]
+        },
+        {
+            "id": 29,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NGC1360_Planetary_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg/800px-NGC1360_Planetary_Nebula_from_the_Mount_Lemmon_SkyCenter_Schulman_Telescope_courtesy_Adam_Block.jpg",
+            "names": ["Robin’s Egg Nebula", "NGC 1360"]
+        },
+        {
+            "id": 30,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/HaRGB-cropped.png/800px-HaRGB-cropped.png",
+            "names": ["Flaming Star Nebula", "IC 405"]
+        },
+        {
+            "id": 31,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/NGC1931HunterWilson.jpg",
+            "names": ["Fly Nebula", "NGC 1931"]
+        },
+        {
+            "id": 32,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/NGC_3077_Hubble.jpg/1024px-NGC_3077_Hubble.jpg",
+            "names": ["The Garland Galaxy", "NGC 3077"]
+        },
+        {
+            "id": 33,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IC_447_-_Dreyer%27s_Nebula.png/1024px-IC_447_-_Dreyer%27s_Nebula.png",
+            "names": ["Dreyer’s Nebula", "Dreyers Nebula", "IC 447"]
+        },
+        {
+            "id": 34,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/NGC_1275_Hubble.jpg/1280px-NGC_1275_Hubble.jpg",
+            "names": ["Perseus A", "C24", "Caldwell 24", "NGC 1275"]
+        },
+        {
+            "id": 35,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Markarian.jpg/1280px-Markarian.jpg",
+            "names": ["Markarian’s Chain", "Markarians Chain", "M84", "Messier 84", "M86", "Messier 86"]
+        },
+        {
+            "id": 36,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PacMan_Nebula.jpg/1280px-PacMan_Nebula.jpg",
+            "names": ["Pacman Nebula", "Pac Man Nebula", "NGC 281", "IC 11"]
+        },
+        {
+            "id": 37,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NGC-6781.jpg/1024px-NGC-6781.jpg",
+            "names": ["Snowglobe Nebula", "NGC 6781"]
+        },
+        {
+            "id": 38,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Redrectangle_hst_full.jpg/1280px-Redrectangle_hst_full.jpg",
+            "names": ["Red Rectangle Nebula"]
+        },
+        {
+            "id": 39,
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/msnbc/Components/Photos/070412/070412_redsquare_hmed.jpg",
+            "names": ["Red Square Nebula"]
+        },
+        {
+            "id": 40,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Messier_21.jpg",
+            "names": ["Webb’s Cross", "Webbs Cross", "M21", "Messier 21", "NGC 6531"]
+        },
+        {
+            "id": 41,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Messier_90_-_HST.png/1024px-Messier_90_-_HST.png",
+            "names": ["M90", "Messier 90", "NGC 4569"]
+        },
+        {
+            "id": 42,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/M91_wfc3_4_crop_v2_final.jpg/1024px-M91_wfc3_4_crop_v2_final.jpg",
+            "names": ["M91", "Messier 91", "NGC 4548"]
+        },
+        {
+            "id": 43,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/M103_Mazur.jpg/1024px-M103_Mazur.jpg",
+            "names": ["M103", "Messier 103", "NGC 581"]
+        },
+        {
+            "id": 44,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Barnard_68.jpg/1024px-Barnard_68.jpg",
+            "names": ["B68", "Barnard 68"]
+        },
+        {
+            "id": 45,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/MUSE_image_of_the_Saturn_Nebula.jpg",
+            "names": ["Saturn Nebula", "C55", "Caldwell 55", "NGC 7009"]
+        },
+        {
+            "id": 46,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Irregular_Galaxy_NGC_55_%28ESO_0914a%29.jpg/1024px-Irregular_Galaxy_NGC_55_%28ESO_0914a%29.jpg",
+            "names": ["String of Pearls Galaxy", "NGC 55"]
+        },
+        {
+            "id": 47,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NGC2403-Subaru-HST-L.jpg/1024px-NGC2403-Subaru-HST-L.jpg",
+            "names": ["C7", "Caldwell 7", "NGC 2403"]
+        },
+        {
+            "id": 48,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/View_of_the_southern_spiral_NGC_300.jpg/1024px-View_of_the_southern_spiral_NGC_300.jpg",
+            "names": ["Sculptor Pinwheel Galaxy", "C70", "Caldwell 70", "NGC 300"]
+        },
+        {
+            "id": 49,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ngc1316_hst.jpg/800px-Ngc1316_hst.jpg",
+            "names": ["Fornax A", "NGC 1316"]
+        },
+        {
+            "id": 50,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NGC891HunterWilson.jpg/1024px-NGC891HunterWilson.jpg",
+            "names": ["Silver Silver Galaxy", "Outer Limits Galaxy", "C23", "Caldwell 23", "NGC 891"]
+        },
+        {
+            "id": 51,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sh2_129.jpg/1280px-Sh2_129.jpg",
+            "names": ["Flying Bat and Squid Nebula", "Sh 2-129", "Sh 129"]
+        },
+        {
+            "id": 52,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jones-Emberson1HunterWilson.jpg",
+            "names": ["Headphones Nebula", "Jones-Emberson 1"]
+        },
+        {
+            "id": 53,
+            "image": "https://www.spacelaunchschedule.com/wp-content/uploads/WolfsCave_Lacroce_960.jpg",
+            "names": ["Wolf's Cave Nebula", "VDB 152"]
+        },
+        {
+            "id": 54,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Necklace_Nebula_by_Hubble.jpg/800px-Necklace_Nebula_by_Hubble.jpg",
+            "names": [
+                "Necklace Nebula"
+            ]
+        },
+        {
+            "id": 55,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NGC_4631_HST.jpg/1920px-NGC_4631_HST.jpg",
+            "names": [
+                "Whale Galaxy",
+                "C32",
+                "Caldwell 32",
+                "NGC 4631"
+            ]
+        },
+        {
+            "id": 56,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Euclid%E2%80%99s_view_of_spiral_galaxy_IC_342_ESA25170723.jpg/1024px-Euclid%E2%80%99s_view_of_spiral_galaxy_IC_342_ESA25170723.jpg",
+            "names": [
+                "Hidden Galaxy",
+                "C5",
+                "Caldwell 5",
+                "IC 342"
+            ]
+        },
+        {
+            "id": 57,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Uncovering_the_secrets_of_the_Quintuplet_Cluster.jpg/1024px-Uncovering_the_secrets_of_the_Quintuplet_Cluster.jpg",
+            "names": [
+                "Quintuplet Cluster"
+            ]
+        },
+        {
+            "id": 58,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/R_Coronae_Australis_region.jpg/1024px-R_Coronae_Australis_region.jpg",
+            "names": [
+                "C68",
+                "Caldwell 68",
+                "R Coronae Australis Region",
+                "R Coronae Australis Nebula",
+                "NGC 6729"
+            ]
+        },
+        {
+            "id": 59,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pencil_hst_big.jpg/1024px-Pencil_hst_big.jpg",
+            "names": [
+                "Pencil Nebula",
+                "NGC 2736"
+            ]
+        },
+        {
+            "id": 60,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1359916791677190235/img_1_1744299793169.jpg?ex=67f938b5&is=67f7e735&hm=355a3a17a5b5e9b566d8fcbd9a77caa205d0d8dcf93d9071588ec0cee4cedd48&",
+            "names": [
+                "Tadpoles Nebula",
+                "NGC 1893"
+            ]
+        },
+        {
+            "id": 61,
+            "image": "https://telescope.live/sites/default/files/2022-08/20220822-SH2-119-SHO.jpg",
+            "names": [
+                "Clamshell Nebula",
+                "Sh 2-119",
+                "Sh 119",
+                "Sharpless 119"
+            ]
+        },
+        {
+            "id": 62,
+            "image": "https://images.squarespace-cdn.com/content/v1/5debd4b16fcd7b02905712ff/1579803980464-ALHWTKIERTON3ORUOIMM/picture-4c01b616637cc63d9011fb317fe28a33-original.jpg",
+            "names": [
+                "Embryo Nebula",
+                "NGC 1333"
+            ]
+        },
+        {
+            "id": 63,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/WR-134.png/1024px-WR-134.png",
+            "names": [
+                "WR 134",
+                "WR-134",
+                "Wolf-Rayet 134",
+                "Wolf Rayet 134"
+            ]
+        },
+        {
+            "id": 64,
+            "image": "https://dq0hsqwjhea1.cloudfront.net/NGC-3190-group-Leo-Hickson-44-Stephen-Leshin-S.jpg",
+            "names": [
+                "Leo Quartet",
+                "NGC 3190 Group"
+            ]
+        },
+        {
+            "id": 65,
+            "image": "https://images.squarespace-cdn.com/content/v1/60d7296aaa6c862de19a7d3b/1691589391007-AT24ATQRMB1VN8E7V74I/DWB111-119-Reprocess-WM-low.jpg",
+            "names": [
+                "Propeller Nebula",
+                "DWB 111",
+                "DWB 119"
+            ]
+        },
+        {
+            "id": 66,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/N2170s.jpg",
+            "names": [
+                "NGC 2170"
+            ]
+        },
+        {
+            "id": 67,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fossil-Footprint.jpg/300px-Fossil-Footprint.jpg",
+            "names": [
+                "Fossil Footprint Nebula",
+                "NGC 1491",
+                "Sh 2-206",
+                "Sh 206",
+                "Sharpless 206",
+                "Ced 25"
+            ]
+        },
+        {
+            "id": 68,
+            "image": "https://images.squarespace-cdn.com/content/v1/5debd4b16fcd7b02905712ff/9bf0f3f8-a5c3-4f87-ab72-b3990ca019e5/A6A124EE-8831-497D-AC9F-323571827774.jpeg",
+            "names": [
+                "Great Lacerta Nebula",
+                "Sh 2-126",
+                "Sh 126",
+                "Sharpless 126"
+            ]
+        },
+        {
+            "id": 69,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360215211226828892/Phot-43a-06.jpg?ex=67fa4ea1&is=67f8fd21&hm=48c9712c8ed749016e81574940a554b9332b55390b14deded465ae55aef4cba1&",
+            "names": [
+                "Topsy-Turvy Galaxy",
+                "Topsy Turvy Galaxy",
+                "NGC 1313"
+            ]
+        },
+        {
+            "id": 70,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360216833780744396/get.jpg?ex=67fa5024&is=67f8fea4&hm=e9e5fbf976a4a003398c05bbc913aeed6cb6ba0d444ef07abf4bab134c17ba21&",
+            "names": [
+                "Barnard 10",
+                "B10",
+                "LBN 782"
+            ]
+        },
+        {
+            "id": 71,
+            "image": "https://www.astroeder.com/rimg/92/376_1363_f248455d_lbn777_ederL.jpg",
+            "names": [
+                "Baby Eagle Nebula",
+                "LBN 777"
+            ]
+        },
+        {
+            "id": 72,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360221198356709446/Kronberger-61.jpg?ex=67fa5435&is=67f902b5&hm=65a9a0485a717367f3d2af35522f892d336391ceabb718cb2f921eb2ecc2750b&",
+            "names": [
+                "Soccer Ball Nebula",
+                "Kronberger 61"
+            ]
+        },
+        {
+            "id": 73,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360221827351449641/NGC6537.jpg?ex=67fa54cb&is=67f9034b&hm=91478d9181c7bc5535fd7dc06d8dcf6b37a1e6c0c2ad767799572ade7223bdb4&",
+            "names": [
+                "Spider Nebula",
+                "NGC 6537"
+            ]
+        }
+    ],
+    "extreme": [
+        {
+            "id": 1,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/IC_289_Geckzilla.jpg",
+            "names": ["IC 289"]
+        },
+        {
+            "id": 2,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NGC_1232.jpg/800px-NGC_1232.jpg",
+            "names": ["Eye of God Galaxy", "NGC 1232"]
+        },
+        {
+            "id": 3,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/NGC_246.jpg",
+            "names": ["Skull Nebula", "C56", "Caldwell 56", "NGC 246"]
+        },
+        {
+            "id": 4,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Starburst_in_a_Dwarf_Irregular_Galaxy.jpg",
+            "names": ["NGC 1569"]
+        },
+        {
+            "id": 5,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg/1920px-Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+            "names": ["NGC 1300"]
+        },
+        {
+            "id": 6,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/IC_1101_in_Abell_2029_%28hst_06228_03_wfpc2_f702w_pc%29.jpg",
+            "names": ["IC 1101", "Abell 2029", "A2029"]
+        },
+        {
+            "id": 7,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/ESO%27s_VLT_images_the_planetary_nebula_IC_1295.jpg/1024px-ESO%27s_VLT_images_the_planetary_nebula_IC_1295.jpg",
+            "names": ["IC 1295"]
+        },
+        {
+            "id": 8,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/IC10_BVHa.jpg/1024px-IC10_BVHa.jpg",
+            "names": ["IC 10"]
+        },
+        {
+            "id": 9,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Clash_of_the_Titans_%2851270258394%29.jpg/800px-Clash_of_the_Titans_%2851270258394%29.jpg",
+            "names": ["IC 1623"]
+        },
+        {
+            "id": 10,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/NGC6008_-_SDSS_DR14.jpg",
+            "names": ["NGC 6008"]
+        },
+        {
+            "id": 11,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NGC2207%2BIC2163.jpg/1920px-NGC2207%2BIC2163.jpg",
+            "names": ["IC 2163", "NGC 2207"]
+        },
+        {
+            "id": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Messier2_-_HST_-_Potw1913a.jpg/1024px-Messier2_-_HST_-_Potw1913a.jpg",
+            "names": ["M2", "Messier 2", "NGC 7089"]
+        },
+        {
+            "id": 13,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Messier_3_-_Adam_Block_-_Mount_Lemmon_SkyCenter_-_University_of_Arizona.jpg",
+            "names": ["M3", "Messier 3", "NGC 5272"]
+        },
+        {
+            "id": 14,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Globular_star_cluster_Messier_4.jpg/1024px-Globular_star_cluster_Messier_4.jpg",
+            "names": ["M4", "Messier 4", "Spider Globular Cluster", "NGC 6121"]
+        },
+        {
+            "id": 15,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/M5s.jpg/1280px-M5s.jpg",
+            "names": ["M5", "Messier 5", "NGC 5904"]
+        },
+        {
+            "id": 16,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Messier_26.jpg/1024px-Messier_26.jpg",
+            "names": ["M26", "Messier 26", "NGC 6694"]
+        },
+        {
+            "id": 17,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/NGC5735_-_SDSS_DR14.jpg",
+            "names": ["NGC 5735"]
+        },
+        {
+            "id": 18,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/NGC2296_-_SDSS_DR14.jpg",
+            "names": ["NGC 2296"]
+        },
+        {
+            "id": 19,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Star-forming_region_S106_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1280px-Star-forming_region_S106_%28captured_by_the_Hubble_Space_Telescope%29.jpg",
+            "names": ["Celestial Snow Angel", "Sh 2-106", "Sh 106"]
+        },
+        {
+            "id": 20,
+            "image": "https://cdn.astrobin.com/thumbs/e2ZDqMeXfzfB_1824x0_FbQyUhVP.jpg",
+            "names": ["Snow Collar Galaxy", "NGC 1291"]
+        },
+        {
+            "id": 21,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ENebulaHunterWilson.jpg",
+            "names": ["E Nebula", "Barnard 142", "Barnard 143"]
+        },
+        {
+            "id": 22,
+            "image": "https://planetarynebulae.net/images/StDr_127_image_1.jpg",
+            "names": ["Strottner Drechsler 127", "StDr 127", "Blue Ice Cube Nebula", "Blue Icecube Nebula"]
+        },
+        {
+            "id": 23,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sh2136s.jpg/800px-Sh2136s.jpg",
+            "names": ["Ghost Nebula", "Sh 2-136", "Sh 136", "Sharpless 136", "VdB 141"]
+        },
+        {
+            "id": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NGC_6369HST.jpg/1024px-NGC_6369HST.jpg",
+            "names": ["Ghost Head Nebula", "Ghosthead Nebula", "NGC 2080"]
+        },
+        {
+            "id": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NGC_6369HST.jpg/1024px-NGC_6369HST.jpg",
+            "names": ["Little Ghost Nebula", "NGC 6369"]
+        },
+        {
+            "id": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/From_Cosmic_Spare_Tyre_to_Ethereal_Blossom.tif/lossy-page1-1024px-From_Cosmic_Spare_Tyre_to_Ethereal_Blossom.tif.jpg",
+            "names": ["Cosmic Spare Tire", "Spare Tire Nebula", "IC 5148"]
+        },
+        {
+            "id": 27,
+            "image": "https://cdn.theatlantic.com/media/mt/science/assets_c/2013/07/firefox_neb-thumb-570x446-127518.jpg",
+            "names": ["Firefox Nebula", "Shrimp Nebula", "Sh 2-188", "Sh 188", "Sharpless 188"]
+        },
+        {
+            "id": 28,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/NGC7008Hunter1.jpg",
+            "names": ["Fetus Nebula", "NGC 7008"]
+        },
+        {
+            "id": 29,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Lenticular_dust_in_detail_%28potw2420a%29.jpg/1920px-Lenticular_dust_in_detail_%28potw2420a%29.jpg",
+            "names": ["NGC 4753"]
+        },
+        {
+            "id": 30,
+            "image": "https://digitalstars.wordpress.com/wp-content/uploads/2023/04/sh2-284-sho.jpg?w=1024",
+            "names": ["Sh 2-284", "Sh 284", "Sharpless 284"]
+        },
+        {
+            "id": 31,
+            "image": "https://static.wixstatic.com/media/d8a647_264f6b6d232248b8a2ad3bb91688593b~mv2.jpg/v1/fill/w_720,h_674,al_c,q_85/d8a647_264f6b6d232248b8a2ad3bb91688593b~mv2.jpg",
+            "names": ["Rice Hat Nebula", "Sh 2-224", "Sh 224", "Sharpless 224"]
+        },
+        {
+            "id": 32,
+            "image": "https://www.spektrum.de/sixcms/media.php/1027/IC%20348%202019_02_22%2623%20Refl_Nebel%20%281%29%203_5%20mehr%20Farbe%20%26%20DarkStrEnh%20KLEINER.png",
+            "names": ["IC 348"]
+        },
+        {
+            "id": 33,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/N4725s.jpg",
+            "names": ["NGC 4725"]
+        },
+        {
+            "id": 34,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/N5033s.jpg/1280px-N5033s.jpg",
+            "names": ["NGC 5033"]
+        },
+        {
+            "id": 35,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360209717208813758/NGC1579Apod.jpg?ex=67fa4984&is=67f8f804&hm=0ff853b955a32eab287190a5ba53c3048c4ba7402df79572cbb82c94b359b673&",
+            "names": ["Northern Trifid", "NGC 1579"]
+        },
+        {
+            "id": 36,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360211006575480842/ngc6914wideField-BobFranke-d4711d8.jpg?ex=67fa4ab7&is=67f8f937&hm=c1e8a8e5b2cfdf88274951fbd96ee02bb904c15c074ba4db1f8f997940211871&",
+            "names": ["NGC 6914"]
+        },
+        {
+            "id": 37,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360212042031824936/ffe34963-74b0-4d50-939d-9536571c0d65.jpg?ex=67fa4bae&is=67f8fa2e&hm=94ab034c9b3f39260ad8747f868e885937f3c2f96062ddbbb3fde42c6bd0d396&",
+            "names": ["NGC 7013"]
+        },
+        {
+            "id": 38,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360214302308438099/nhxejjnjwyp71.jpg?ex=67fa4dc9&is=67f8fc49&hm=327ff33e0caaa40ddb78f177b2f6b60d18ce34657ece8e21fb0bac0cd1099d54&",
+            "names": ["Sh 2-115", "Sh 115", "Sharpless 115"]
+        },
+        {
+            "id": 39,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360214823107039333/13_49_38_51a2c7ee_09a6_4fef_9a4c_fa2e40684d93.jpg?ex=67fa4e45&is=67f8fcc5&hm=2fcd0577c1d93da63f9e5cb73628185248cb38a52170c90af80a1dd4283f9064&",
+            "names": ["Sh 2-310", "Sh 310", "Sharpless 310"]
+        },
+        {
+            "id": 40,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/NGC_2903_GALEX.jpg",
+            "names": ["NGC 2903"]
+        },
+        {
+            "id": 41,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NGC_7129_%28Spitzer_Space_Telescope%29.jpg/800px-NGC_7129_%28Spitzer_Space_Telescope%29.jpg",
+            "names": ["NGC 7129"]
+        },
+        {
+            "id": 42,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360221766097571900/IMG_8818.jpg?ex=67fa54bc&is=67f9033c&hm=2e943b3f34a317fde5f154d63b26033c30d944833545d2e6208efa1ba2acfc85&",
+            "names": ["NGC 6726"]
+        },
+        {
+            "id": 43,
+            "image": "https://cdn.discordapp.com/ephemeral-attachments/1358009466083213333/1360222584163008754/IMG_8820.jpg?ex=67fa557f&is=67f903ff&hm=9ddd43394a3cd64b4ee13e7074f1c2583f68f9ec2ab3ae6ae7119842e68e5110&",
+            "names": ["C64", "Caldwell 64", "NGC 2362"]
+        },
+        {
+            "id": 44,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg/1024px-PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg",
+            "names": ["Hand of God Nebula", "PSR B1509−58"]
+        }
+           
+                     
+    ]
+}
