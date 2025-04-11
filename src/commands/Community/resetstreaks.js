@@ -8,13 +8,7 @@ module.exports = {
     .setDefaultMemberPermissions(PermissionFlagsBits.Administrator),
 
   async execute(interaction) {
-    // Only allow admins to use this
-    if (!interaction.member.permissions.has("Administrator")) {
-      return interaction.reply({
-        content: "❌ You do not have permission to use this command.",
-        ephemeral: true,
-      });
-    }
+  
 
     await interaction.deferReply({ ephemeral: true });
 
