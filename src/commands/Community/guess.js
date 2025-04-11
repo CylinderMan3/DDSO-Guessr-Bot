@@ -52,7 +52,6 @@ module.exports = {
   },
 };
 
-// Helper function to normalize text for comparison
 const normalize = (str) => str.toLowerCase().replace(/[^a-z0-9]/gi, "");
 
 async function updateStreak(userId, difficulty) {
@@ -138,18 +137,18 @@ async function startGame(channel, difficulty) {
     if (gameEnded || alreadyAnswered.has(m.author.id)) return;
 
     attemptedUsers.add(m.author.id);
-    const guess = normalize(m.content.trim()); // Normalize the user's guess
+    const guess = normalize(m.content.trim()); /
 
     if (
       Array.isArray(randomImage.names) &&
-      randomImage.names.some((name) => normalize(name) === guess) // Normalize the name for comparison
+      randomImage.names.some((name) => normalize(name) === guess) 
     ) {
       gameEnded = true;
       alreadyAnswered.add(m.author.id);
 
       const { currentStreak, isOnStreak } = await updateStreak(m.author.id, difficulty);
 
-      // Update streak text logic
+   
       const streakText =
         currentStreak === 0
           ? `🔥 **${m.author.username}** is building up a streak... (0 so far)`
